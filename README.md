@@ -1,3 +1,3 @@
 # Power
 
-![](/power.jpg?raw=true)
+![](/Power.jpg?raw=true)
